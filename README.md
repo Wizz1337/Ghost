@@ -1,7 +1,6 @@
 <h1 align="center">Ghost</h1>
 
 <p align='center'>
-    
   <b>👻Ghost is a simple linkvertise/adfly bypasser written in Python 3</b>
   <br>
   <br>
